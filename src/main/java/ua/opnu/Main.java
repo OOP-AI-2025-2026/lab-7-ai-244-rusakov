@@ -40,6 +40,7 @@ class Student {
     }
 }
 
+// LAB 7 IS DONE !
 public class Main {
     public static void main(String[] args) {
 
